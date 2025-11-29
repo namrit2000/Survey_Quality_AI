@@ -1,0 +1,29 @@
+pandas==2.1.4
+numpy==1.26.2
+matplotlib==3.8.2
+seaborn==0.13.0
+scikit-learn==1.3.2
+jupyter==1.0.0
+notebook==7.0.6
+python-dateutil==2.8.2
+```
+
+4. Commit message: `Add Python dependencies`
+5. Click **"Commit changes"**
+
+---
+
+### **STEP 5: Organize into Folders**
+
+After uploading all files, we'll move them into folders:
+
+**Move notebook to notebooks/ folder:**
+1. Click on `01_data_exploration_and_generation.ipynb` file
+2. Click the **pencil icon** (Edit)
+3. In the filename box at top, change from:
+```
+   01_data_exploration_and_generation.ipynb
+```
+   to:
+```
+   notebooks/01_data_exploration_and_generation.ipynb
